@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\01-Conceitos.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\01-Conceitos.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\01-Conceitos.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\01-Conceitos.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\01-Conceitos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\ref\01-Conceitos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\bin\Debug\net5.0\01-Conceitos.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\ref\01-Conceitos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\01-Conceitos\obj\Debug\net5.0\01-Conceitos.genruntimeconfig.cache
