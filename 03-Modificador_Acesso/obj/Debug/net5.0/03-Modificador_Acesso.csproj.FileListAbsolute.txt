@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\03-Modificador_Acesso.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\03-Modificador_Acesso.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\03-Modificador_Acesso.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\03-Modificador_Acesso.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\03-Modificador_Acesso.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\ref\03-Modificador_Acesso.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\bin\Debug\net5.0\03-Modificador_Acesso.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\ref\03-Modificador_Acesso.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\03-Modificador_Acesso\obj\Debug\net5.0\03-Modificador_Acesso.genruntimeconfig.cache
