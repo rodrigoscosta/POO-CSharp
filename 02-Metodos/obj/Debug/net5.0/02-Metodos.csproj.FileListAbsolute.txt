@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\02-Metodos.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\02-Metodos.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\02-Metodos.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\02-Metodos.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\02-Metodos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\ref\02-Metodos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\bin\Debug\net5.0\02-Metodos.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\ref\02-Metodos.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\02-Metodos\obj\Debug\net5.0\02-Metodos.genruntimeconfig.cache
