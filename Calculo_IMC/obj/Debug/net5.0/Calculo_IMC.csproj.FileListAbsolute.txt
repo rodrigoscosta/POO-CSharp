@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\ref\Calculo_IMC.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\ref\Calculo_IMC.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.genruntimeconfig.cache
