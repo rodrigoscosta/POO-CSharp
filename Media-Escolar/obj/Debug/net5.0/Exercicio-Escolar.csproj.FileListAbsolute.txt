@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\Exercicio-Escolar.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\Exercicio-Escolar.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\Exercicio-Escolar.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\Exercicio-Escolar.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\Exercicio-Escolar.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\ref\Exercicio-Escolar.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\bin\Debug\net5.0\Exercicio-Escolar.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\ref\Exercicio-Escolar.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\Exercicio-Escolar\obj\Debug\net5.0\Exercicio-Escolar.genruntimeconfig.cache
