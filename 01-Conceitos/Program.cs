@@ -22,6 +22,4 @@ namespace _01_Conceitos
     }
 }
 
-/* Métodos: são blocos de código que executam uma única função;
-* Objeto é uma instancia de uma classe, tem Atributos, Métodos e Estados.
-*/
+// Objeto é uma instancia de uma classe, tem Atributos, Métodos e Estados.
