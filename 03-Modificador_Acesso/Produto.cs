@@ -7,5 +7,5 @@ public class Produto
      */
 
      public string nome;
-    // private double valor;
+     private double valor;
 }
