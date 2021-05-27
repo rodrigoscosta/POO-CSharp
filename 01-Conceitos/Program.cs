@@ -21,3 +21,11 @@ namespace _01_Conceitos
         }
     }
 }
+
+// O objetivo da POO é possibilitar a reutilização de trechos de programação e, com isso, ganhar tempo e tornar a codificação mais “inteligente”;
+
+// Classe - Define os atributos e métodos comuns que serão compartilhados por um objeto, como se fosse um molde;
+
+// Objeto é uma instancia de uma classe, tem Atributos, Métodos e Estados;
+
+// Instanciar - criar/gerar um objeto a partir de uma classe existente.
