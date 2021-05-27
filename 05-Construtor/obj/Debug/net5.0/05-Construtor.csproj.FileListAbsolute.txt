@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\05-Construtor.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\05-Construtor.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\05-Construtor.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\05-Construtor.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\05-Construtor.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\ref\05-Construtor.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\bin\Debug\net5.0\05-Construtor.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\ref\05-Construtor.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\05-Construtor\obj\Debug\net5.0\05-Construtor.genruntimeconfig.cache
