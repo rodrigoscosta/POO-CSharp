@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\04-Encapsulamento.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\04-Encapsulamento.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\04-Encapsulamento.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\04-Encapsulamento.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\04-Encapsulamento.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\ref\04-Encapsulamento.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\bin\Debug\net5.0\04-Encapsulamento.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\ref\04-Encapsulamento.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\04-Encapsulamento\obj\Debug\net5.0\04-Encapsulamento.genruntimeconfig.cache
