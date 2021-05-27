@@ -23,3 +23,5 @@ namespace _01_Conceitos
 }
 
 // Objeto é uma instancia de uma classe, tem Atributos, Métodos e Estados.
+
+// Instanciar - criar/gerar um objeto a partir de uma classe existente
