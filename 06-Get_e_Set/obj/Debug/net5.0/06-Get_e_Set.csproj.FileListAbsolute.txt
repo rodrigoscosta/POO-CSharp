@@ -1,0 +1,16 @@
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\06-Get_e_Set.exe
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\06-Get_e_Set.deps.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\06-Get_e_Set.runtimeconfig.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\06-Get_e_Set.runtimeconfig.dev.json
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\06-Get_e_Set.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\ref\06-Get_e_Set.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\bin\Debug\net5.0\06-Get_e_Set.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.csprojAssemblyReference.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\ref\06-Get_e_Set.dll
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.pdb
+C:\Users\Kelly\Downloads\rodrigo\Exerc-POO-C#\06-Get_e_Set\obj\Debug\net5.0\06-Get_e_Set.genruntimeconfig.cache
