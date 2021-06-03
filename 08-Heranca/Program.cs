@@ -12,14 +12,22 @@ namespace _08_Herança
     }
 }
 
-/* A herança serve para compartilhar métodos, atributos e
+/* 
+* HERANÇA significa aquilo que se herda, aquilo que é transmitido por hereditariedade.
+*
+* A herança serve para compartilhar métodos, atributos e
 * objetos entre classes;
 *
 * Caso o método/atributo/objeto esteja marcado como private,
 * mesmo com a herança, não temos acesso;
 *
-* Para herdar de uma classe para outro, usamos o sinal de " : ".
+* Uma notação muito aceita é a seguinte: coloca-se o nome da classe filha mais o símbolo de dois-pontos " : " e, em seguida, coloca-se o nome da classe herdada,
 *
-* No C#, não existe herança múltipla (Ex: a classe Funcionario não pode
-* estender outras classes, APENAS 1, que no caso, é Pessoa).
+* A herança é múltipla quando uma classe herda características de duas ou mais classes-pai. 
+* Algumas linguagens – como Java e C # – NÃO permitem herança múltipla. Nesses casos, somente é possível existir APENAS UMA herança simples por classe
+*
+* A classe principal ou original é chamada de superclasse ou classe-mãe. 
+* Sinônimos: Os termos classe-base, supertipo, superclasse, classe-pai, classe-mãe e classe primitiva são sinônimos.
+*
+* A classe que herda é considerada classe-filha ou subclasse.Sinônimos: classe derivada, subtipo, subclasse e classe filha
 */
