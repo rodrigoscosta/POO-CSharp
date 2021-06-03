@@ -1,0 +1,13 @@
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\bin\Debug\netcoreapp3.1\09-Polimorfismo.exe
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\bin\Debug\netcoreapp3.1\09-Polimorfismo.deps.json
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\bin\Debug\netcoreapp3.1\09-Polimorfismo.runtimeconfig.json
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\bin\Debug\netcoreapp3.1\09-Polimorfismo.runtimeconfig.dev.json
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\bin\Debug\netcoreapp3.1\09-Polimorfismo.dll
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\bin\Debug\netcoreapp3.1\09-Polimorfismo.pdb
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.csprojAssemblyReference.cache
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.AssemblyInfo.cs
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.dll
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.pdb
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\09-Polimorfismo\obj\Debug\netcoreapp3.1\09-Polimorfismo.genruntimeconfig.cache
