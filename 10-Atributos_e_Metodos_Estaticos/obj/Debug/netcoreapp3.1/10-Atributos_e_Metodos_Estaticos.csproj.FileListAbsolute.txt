@@ -1,0 +1,13 @@
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\bin\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.exe
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\bin\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.deps.json
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\bin\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.runtimeconfig.json
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\bin\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.runtimeconfig.dev.json
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\bin\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.dll
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\bin\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.pdb
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.csprojAssemblyReference.cache
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.AssemblyInfoInputs.cache
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.AssemblyInfo.cs
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.dll
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.pdb
+C:\Users\ab1214210\Documents\curso-DIO\Exerc-POO-C#\10-Atributos_e_Metodos_Estaticos\obj\Debug\netcoreapp3.1\10-Atributos_e_Metodos_Estaticos.genruntimeconfig.cache
